@@ -1,0 +1,9 @@
+D:\Work\GitHub\MapxtremeSimpleFrame\Realease\MapAPP.exe.config
+D:\Work\GitHub\MapxtremeSimpleFrame\Realease\MapAPP.exe
+D:\Work\GitHub\MapxtremeSimpleFrame\Realease\MapAPP.pdb
+D:\Work\GitHub\MapxtremeSimpleFrame\MapApp\obj\Debug\MapApp.csprojResolveAssemblyReference.cache
+D:\Work\GitHub\MapxtremeSimpleFrame\MapApp\obj\Debug\Devgis.EagleEye.MainMap.resources
+D:\Work\GitHub\MapxtremeSimpleFrame\MapApp\obj\Debug\DEVGIS.MapAPP.Properties.Resources.resources
+D:\Work\GitHub\MapxtremeSimpleFrame\MapApp\obj\Debug\MapApp.csproj.GenerateResource.Cache
+D:\Work\GitHub\MapxtremeSimpleFrame\MapApp\obj\Debug\MapAPP.exe
+D:\Work\GitHub\MapxtremeSimpleFrame\MapApp\obj\Debug\MapAPP.pdb

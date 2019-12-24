@@ -8,8 +8,8 @@
     <ProjectGuid>{4C092458-D947-4B0E-B564-4116C5104169}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>EagleEye</RootNamespace>
-    <AssemblyName>EagleEye</AssemblyName>
+    <RootNamespace>DEVGIS.MapAPP</RootNamespace>
+    <AssemblyName>MapAPP</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileUpgradeFlags>
     </FileUpgradeFlags>

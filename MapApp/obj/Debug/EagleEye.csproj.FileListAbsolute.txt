@@ -7,3 +7,6 @@ D:\Work\GitHub\Mapxtreme_EagleEye\EagleEye\obj\Debug\EagleEye.csprojResolveAssem
 D:\Work\GitHub\Mapxtreme_EagleEye\EagleEye\obj\Debug\Devgis.EagleEye.MainMap.resources
 D:\Work\GitHub\Mapxtreme_EagleEye\EagleEye\obj\Debug\EagleEye.Properties.Resources.resources
 D:\Work\GitHub\Mapxtreme_EagleEye\EagleEye\obj\Debug\EagleEye.csproj.GenerateResource.Cache
+D:\Work\GitHub\MapxtremeSimpleFrame\Realease\EagleEye.exe.config
+D:\Work\GitHub\MapxtremeSimpleFrame\EagleEye\obj\Debug\EagleEye.exe
+D:\Work\GitHub\MapxtremeSimpleFrame\EagleEye\obj\Debug\EagleEye.pdb

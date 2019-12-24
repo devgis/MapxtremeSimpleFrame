@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("EagleEye")]
-[assembly: AssemblyDescription("http://flysoft.taobao.com/")]
+[assembly: AssemblyTitle("DEVGIS")]
+[assembly: AssemblyDescription("http://www.devgis.com/")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Devgis")]
-[assembly: AssemblyProduct("EagleEye")]
-[assembly: AssemblyCopyright("Copyright © Devgis 2014")]
-[assembly: AssemblyTrademark("Devgis")]
+[assembly: AssemblyCompany("DEVGIS")]
+[assembly: AssemblyProduct("MapAPP")]
+[assembly: AssemblyCopyright("Copyright © DEVGIS 2019")]
+[assembly: AssemblyTrademark("DEVGIS")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 

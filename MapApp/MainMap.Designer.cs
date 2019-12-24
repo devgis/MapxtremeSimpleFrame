@@ -220,10 +220,10 @@
             this.Controls.Add(this.panel1);
             this.Name = "MainMap";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "鹰眼Demo（如需购买源码请联系QQ80163278）";
+            this.Text = "DEVGIS MapAPP";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
-            this.Load += new System.EventHandler(this.MainMap_Load);
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainMap_FormClosing);
+            this.Load += new System.EventHandler(this.MainMap_Load);
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();
             this.panel1.ResumeLayout(false);

@@ -127,7 +127,7 @@ namespace Devgis.EagleEye
 
         private void MainMap_FormClosing(object sender, FormClosingEventArgs e)
         {
-            System.Diagnostics.Process.Start("http://flysoft.taobao.com/");
+            
         }
     }
 }
